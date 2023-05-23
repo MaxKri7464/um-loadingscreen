@@ -1,24 +1,40 @@
------------------UPDATE-----------------
-[+] Smazané CRYPTO z telefonu
-[+] Nová EMS stanice (pillbox hill)
-[+] Přemístěny EMS garáže (Helikoptera, auta)
-[+] Přidán výtah na heliport
-[+] Respawn na pillbox
-[+] Ošetření na pillbox
-[+] Převlíkárna na EMS
-[+] Přemístěn shop a sklad pro EMS
-[+] Přidané a upravené faktury v MDT pro LSDP/LSSD
+-----------------DEV-LOG-----------------
+[+] koupen nový script na šlapky dají se pronajmout a poté je můžete takzvaně OŠUKAT
+[+] Koupen script na CASINO!
+[+] Koupeny nový garáže
+-- Přepsání vozidla /prepsatvozidlo
+-- Fake SPZ - musíte mít item a použít
+-- Sundání fake SPZ /sundatfakespz
+-- Předání klíček od auta /datklice (po restartu se hráčovi automaticky vezmou)
+-- Sebrání klíček od auta /odebratklice
 
-[+] Nový admin system
-[+] Odstraněné /users takže admini nebudou mít zapnuté ID při RP akci
+[+] přidány smoky pro letadla na air show
+[+] přidán do PDM nové auto značky nissan (titan)
+[+] nový soundy motorů u nákých aut spíše u drahších značek ale budu dávat i na bmw atd
 
-[+] Odtahovka k PDM
-[+] Přesunuté PDM s ADD-ON autama do LUXURY CARS
-[+] Nové PDM s Vanilla autama (u ammunationu na náměstí) - @RGB CERNOCH tam musí ještě dát auta
+[+] bylo přidáno radialmenu pro všechny nyní se dá poutat s itemem handcuffs který bude jak v youtoolu tak i pd v obchodě
+[+] mělo by být fix bossmenu
 
-[+] Custom joba pro vinici
-[+] Garáž k vinici
-[+] Potřebné věci pro vinici (sklad, bossmenu, atd...)
+[+] nový fotky v loadingu
+[+] nový songa v loadingu
 
-[+] 2 gang joby (hood, sklad, atd...)
-[+] Upravena váha granulí pro psy
+[+] nový script na hunting (jsou 2 lokace)
+[+] nová prodejna s hunting věcma (musketa atd)
+[+] novej selling shop
+[+] Presunuty crafting
+
+[+] udělaná joba pro 🥩 SALIERI BAR (crafting, přidány new itemy)
+[+] udělaná joba pro 🚒 FIRE DEPARTMENT (garáže, bossmenu, nový auta)
+[+] udělaná joba pro 🔫 WEAPON CORP (přídán obchod, bossmenu)
+[+] udělaná joba pro 🔧 ROYAL CUSTOMS 
+[+] new chat commands /weaponcorp, /royal, /salieri
+
+[+] udělal sem přehlednější minimapu a smazal sem buglý blipy
+[+] přidán script na měnění barvy waypointu /theme
+
+[+] nový script na autopilota
+[+] nový visual deadscreenu
+[+] Koupena nová joba pro Taxi službu s taxa metrem
+
+[+] upraven hud
+[+] Upravena váha vest
