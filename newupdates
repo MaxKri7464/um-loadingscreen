@@ -1,40 +1,96 @@
------------------DEV-LOG-----------------
-[+] koupen nový script na šlapky dají se pronajmout a poté je můžete takzvaně OŠUKAT
-[+] Koupen script na CASINO!
-[+] Koupeny nový garáže
--- Přepsání vozidla /prepsatvozidlo
--- Fake SPZ - musíte mít item a použít
--- Sundání fake SPZ /sundatfakespz
--- Předání klíček od auta /datklice (po restartu se hráčovi automaticky vezmou)
--- Sebrání klíček od auta /odebratklice
+Zdravím, proběhl Summer Update 🏝️ . Co sme přidali?
+Krádež letadla 
 
-[+] přidány smoky pro letadla na air show
-[+] přidán do PDM nové auto značky nissan (titan)
-[+] nový soundy motorů u nákých aut spíše u drahších značek ale budu dávat i na bmw atd
+[+] Byl zakoupen script na krádež letadla
+INFO:https://www.youtube.com/watch?v=Jhjggqzdlec&embeds_referring_euri=https%3A%2F%2Fkuzquality.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo
 
-[+] bylo přidáno radialmenu pro všechny nyní se dá poutat s itemem handcuffs který bude jak v youtoolu tak i pd v obchodě
-[+] mělo by být fix bossmenu
+Crypto 
 
-[+] nový fotky v loadingu
-[+] nový songa v loadingu
+[+] Bylo opravené crypto 
+[+] Přidali sme více lokací na těžbu crypta
 
-[+] nový script na hunting (jsou 2 lokace)
-[+] nová prodejna s hunting věcma (musketa atd)
-[+] novej selling shop
-[+] Presunuty crafting
+Camery pro LSPD 
 
-[+] udělaná joba pro 🥩 SALIERI BAR (crafting, přidány new itemy)
-[+] udělaná joba pro 🚒 FIRE DEPARTMENT (garáže, bossmenu, nový auta)
-[+] udělaná joba pro 🔫 WEAPON CORP (přídán obchod, bossmenu)
-[+] udělaná joba pro 🔧 ROYAL CUSTOMS 
-[+] new chat commands /weaponcorp, /royal, /salieri
+[+] Byly přidán systém na camery 
+INFO: /pcams je to jen pro státní složky
 
-[+] udělal sem přehlednější minimapu a smazal sem buglý blipy
-[+] přidán script na měnění barvy waypointu /theme
+MEGAPHONE
 
-[+] nový script na autopilota
-[+] nový visual deadscreenu
-[+] Koupena nová joba pro Taxi službu s taxa metrem
+[+] Byl přidán megaphone pro @👮🏼‍♂️ POLICE DEPARTMENT (máte je nyní v obchodě na stanici)
 
-[+] upraven hud
-[+] Upravena váha vest
+Evidence 
+
+[+] Byl přidán evidence script pro @👮🏼‍♂️ POLICE DEPARTMENT 
+
+Mugshot 
+
+[+] byl přidán mugshot pro @👮🏼‍♂️ POLICE DEPARTMENT 
+
+Hunting 
+
+[+] Byl přidán propracovanější script na lovení zvířat (Funguje ale čekám než mi odepíšou na podpoře fiveguardu mizí z rukou zvíře)
+
+Fire Job 
+
+[+] Byl přidán suprovej script pro @🚒 FIRE DEPARTMENT 
+
+FIVEGUARD
+
+[+] Byl přidán nejlepší anticheat který je dostupný 
+
+VYKRÁDÁNÍ BANKY (FLEECA)
+
+[+] Byl přidán script na vykrádání banky
+INFO: Zatím to nefunguje čekám na odpověd supporta
+
+CAR LIFT
+
+[+] Byl přidán car lift pro všechny mechanik joby 
+
+DENNÍ ODMĚNY
+
+[+] Byl přidán script na vybrání denní odměny /daily
+
+CASE OPENING
+
+[+] Byl přidán script na otevírání bedniček /case
+
+INFO: Musíte si prvně koupit mince na našem tebexu (https://legend-roleplay.tebex.io/) poté je ve hře uplatnit a oni se vám poté přičtou a můžete otevírat držím palce at vyhrajete auta!
+
+NOVÝ VIZUÁL NA TEBEXU!
+
+[+] Byl zakoupen nový vizual tebexu (omylem sem na sebe nasranej!!!)
+
+NOVÝ SKINY NA ZBRANĚ 
+
+[+] Byly přidány skiny na zbraně například nový glock, carabina a je jich víc
+
+AUTA 
+
+[+] Byly přidány na server několik nových vozů do PDM, pro EMS, pro ARMÁDU, 
+
+OPTIMALIZACE
+
+[+] Snažili sme se trochu optimalizovat server tak snad to bude lepší!
+
+--------------- @MOSTECKÝ CIGOŠ ---------------
+
+REALISTICKÝ CRAFTING PRO PODINKY 
+
+[+] Přídali sme každému podniku super craftingy můžete se na ně nyní už podívat
+
+CUSTOM SCRIPT NA LÉKY 
+
+[+] @👨🏻‍⚕️ EMERGENCY MEDICAL SERVICES  budou mít ve svém obchodě léky
+
+DUTY SYSTEM 
+
+[+] To je třeba pro státní složky aby ste šli do služby a nebo odešli ze služby
+
+ZAHAZOVÁNÍ ZBRANĚ 
+
+[+] Přidali sme script na zahazování zbraní z rukou když držíte zbran v ruce a dáte E tak jí zahodíte třeba když vás chytne @👮🏼‍♂️ POLICE DEPARTMENT 
+
+PŘIDÁN SCRIPT NA GIVEAWAY 
+
+[+] Tohle moc nechápu to by vám řekl joker
